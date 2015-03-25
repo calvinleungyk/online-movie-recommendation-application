@@ -1,0 +1,24 @@
+BEGIN The Princess Bride
+KEYWORD: comedy
+KEYWORD: Inigo Montoya
+ACTOR: a
+KEYWORD: Robin Wright
+PRICE: 10
+END
+BEGIN City Lights
+KEYWORD: comedy
+KEYWORD: romance
+KEYWORD: Charlie Chaplin
+KEYWORD: social criticism
+ACTOR: a
+PRICE: 15
+END
+BEGIN The Hobbit: An Unexpected Journey
+ACTOR: b
+PRICE: 20
+KEYWORD: Hobbit
+END
+BEGIN The Hobbit: The Desolation of Smaug
+KEYWORD: Hobbit
+PRICE: 25
+END

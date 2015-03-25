@@ -1,0 +1,39 @@
+BEGIN aaroncot
+NAME: Aaron Cote
+PASSWORD: e465cb3aa935ede5f0b40fcac3b9e2e8
+ADDRESS: USC
+CREDIT: 56789 39
+MOVIE: The Princess Bride
+BEGIN QUEUE
+END QUEUE
+BEGIN RATINGS
+3 The Hobbit: An Unexpected Journey
+4 City Lights
+2 The Hobbit: The Desolation of Smaug
+4 The Princess Bride
+END RATINGS
+END
+BEGIN dkempe
+NAME: David Kempe
+PASSWORD: 04f7b96a838bb3de86ee6f2e087da8b9
+ADDRESS: USC
+CREDIT: 56789 39
+BEGIN QUEUE
+END QUEUE
+BEGIN RATINGS
+5 The Princess Bride
+END RATINGS
+END
+BEGIN calvin
+NAME: awryay
+PASSWORD: b02db0eeb435aeba80f93e832837f2cf
+ADDRESS: USC
+CREDIT: 56789 39
+MOVIE: The Hobbit: An Unexpected Journey
+BEGIN QUEUE
+END QUEUE
+BEGIN RATINGS
+5 City Lights
+2 The Princess Bride
+END RATINGS
+END
